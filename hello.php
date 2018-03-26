@@ -1,7 +1,7 @@
 <?php
 
 
-echp 'hello world! 菜鸟教程 测试。。'
+echp 'hello world! 菜鸟教程 测试合并'
 
 
 
